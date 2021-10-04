@@ -1,0 +1,6 @@
+cod de baza pentu masurare ioni 
+calibrarea se face cu ajutorul datelor de la tabelele de la inceputul programului 
+
+
+
+a fost adaugat si un watch dog timer in caz de blocare
